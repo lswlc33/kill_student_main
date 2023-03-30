@@ -29,5 +29,5 @@ if __name__ == '__main__':
         else:
             print('找不到进程了TAT')
         print("#" * 30)
-        input('回车以退出')
+        input('回车以退出程序')
         exit()
