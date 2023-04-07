@@ -27,7 +27,7 @@ if __name__ == '__main__':
         if kill_task():
             print('关掉了，好耶！')
         else:
-            print('找不到进程了TAT')
+            print('找不到进程，可能已经退出')
         print("#" * 30)
         input('回车以退出程序')
         exit()
