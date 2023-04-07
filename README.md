@@ -7,7 +7,14 @@
 把此程序下载到电脑不会清空的分区  
 来到机房直接打开  
 开始卷！  
+
 ## 常用自习操作
 `start chrome`  
 `install flash `  
 `cg.163.com gogo`  
+
+## 构建
+命令：  
+`pyinstaller -wF kill_student.py -i favicon.ico`  
+
+建议使用python3.7等支持在win7等旧版系统的环境打包  
