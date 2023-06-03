@@ -8,6 +8,10 @@
 来到机房直接打开  
 开始卷！  
 
+## 软件截图
+![屏幕截图 2023-06-03 134928](https://github.com/lswlc33/kill_student_main/assets/86835895/950a9c49-ab30-4963-9a55-6d66b9cf21e6)
+
+
 ## 常用自习操作
 `start chrome`  
 `install flash `  
